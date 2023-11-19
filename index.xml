@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ManuC Blog</title>
+    <link>https://bitmanuc.github.io/</link>
+    <description>Recent content on ManuC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 18 Nov 2023 09:19:49 -0500</lastBuildDate>
+    <atom:link href="https://bitmanuc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoreo con Influxb, Telegraf y Grafana usando Docker</title>
+      <link>https://bitmanuc.github.io/post/2023-11-18-monitoreo-influxdb-telegraf-grafana-usando-docker/</link>
+      <pubDate>Sat, 18 Nov 2023 09:19:49 -0500</pubDate>
+      <guid>https://bitmanuc.github.io/post/2023-11-18-monitoreo-influxdb-telegraf-grafana-usando-docker/</guid>
+      <description>Hay varios sistemas de monitoreo, que va desde pago hasta open source. En este post se mostrará una opción que combina varias opciones open source.
+El alcance de lo presentando cubre lo basico para el monitoreo de servidores, queda a opción del lector seguir descubriendo más opciones de monitoreo, por ejemplo seguimiento de logs de aplicaciones como Apache o Nginx, incluso más.
+Usaremos 3 componentes clave como se describe:
+Base de datos de series de tiempo: Usaremos InfluxDB como almacen de datos.</description>
+    </item>
+  </channel>
+</rss>

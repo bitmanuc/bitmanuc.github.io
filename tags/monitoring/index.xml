@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monitoring on ManuC Blog</title>
+    <link>http://192.168.18.9/tags/monitoring/</link>
+    <description>Recent content in monitoring on ManuC Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 18 Nov 2023 09:19:49 -0500</lastBuildDate>
+    <atom:link href="http://192.168.18.9/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana Docker</title>
+      <link>http://192.168.18.9/post/2023-11-18-grafana-docker/</link>
+      <pubDate>Sat, 18 Nov 2023 09:19:49 -0500</pubDate>
+      <guid>http://192.168.18.9/post/2023-11-18-grafana-docker/</guid>
+      <description>Una opción de como desplegar y usar Grafana usando contendor con Docker.
+Desplegar Grafana </description>
+    </item>
+  </channel>
+</rss>
